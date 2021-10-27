@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/flusynIcon.png</file>
+        <file>res/previewIcon.png</file>
+        <file>res/d25Icon.png</file>
+        <file>res/propIcon.png</file>
+    </qresource>
+</RCC>
